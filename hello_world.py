@@ -1,3 +1,5 @@
 print("Hello, World!")
 print("My name is Prasang.")
 print("I am starting my programming journey.")
+print("I am learning Git and GitHub.")
+print("My goal is to become a good programmer.")
